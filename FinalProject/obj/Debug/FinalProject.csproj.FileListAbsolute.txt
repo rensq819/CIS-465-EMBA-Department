@@ -1,0 +1,16 @@
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\obj\Debug\FinalProject.PickUpForm.resources
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\obj\Debug\FinalProject.MainForm.resources
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\bin\Debug\StudentDatabase.mdf
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\bin\Debug\StudentDatabase_log.ldf
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\obj\Debug\FinalProject.ViewStudentTableForm.resources
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\obj\Debug\FinalProject.ViewStudentTaskStatusForm.resources
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\obj\Debug\FinalProject.AddNewStudentTableForm.resources
+C:\【MSU】\Semester 8\CIS 465\Project\FinalProject\FinalProject\obj\Debug\FinalProject.StudentTaskForm.resources
